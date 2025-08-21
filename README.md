@@ -4,7 +4,7 @@
 <h3 align="center">AI Product Architect | Digital Entrepreneur | Software Engineer</h3>
 
 <p align="center">
-  <img src="./assets/skills-flash.svg" alt="Skills Flash" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=34&pause=1100&center=true&vCenter=true&repeat=true&width=900&lines=Product+Design;Front-End+Engineering;Back-End+Engineering;Computer+Systems+Engineering" alt="Typing Skills Banner" />
 </p>
 
 ---

@@ -3,10 +3,12 @@
 <h1 align="center">Hi 👋, I'm Bethel Amadi</h1>
 <h3 align="center">AI Product Architect | Digital Entrepreneur | Software Engineer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=34&pause=1100&center=true&vCenter=true&repeat=true&width=900&lines=Product+Design;Front-End+Engineering;Back-End+Engineering;Computer+Systems+Engineering" alt="Typing Skills Banner" />
-</p>
-
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <img src="https://img.shields.io/badge/Product%20Design-0B1020?style=for-the-badge&labelColor=0B1020&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Front--End%20Engineering-0B1020?style=for-the-badge&labelColor=0B1020&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Back--End%20Engineering-0B1020?style=for-the-badge&labelColor=0B1020&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer%20Systems%20Engineering-0B1020?style=for-the-badge&labelColor=0B1020&logo=serverless&logoColor=white">
+</marquee>
 
 ---
 

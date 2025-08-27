@@ -14,7 +14,7 @@
 💡 Passionate about **AI-driven solutions**, **FinTech innovation**, and **Product Design**.  
 🌍 Based in South Africa, building tech for Africa & the world.  
 📌 Founder of **Klonix Technologies** & **Godfada Brand**.  
-🎓 Background in **Industrial Physics** + certifications in **AI, FinTech, Product Design, Software Engineering, Computer Systems Engineering, and Computer Programming**.  
+🎓 Background in **Industrial Physics** + certifications in **AI, FinTech, Product Design, Software Engineering, Computer Systems Engineering, and AI Computer Programming**.  
 
 ---
 

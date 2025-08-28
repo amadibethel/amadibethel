@@ -11,8 +11,7 @@
 
 ## About Me 
  
-Passionate about **AI-driven solutions**, **FinTech innovation**, and **Product Design**.  
-Based in South Africa, building tech for Africa & the world.  
+**AI**, **Blockchain**, **CivicTech**, **FinTech**, **EdTech**, **e-Commerce**, **Drone Deployment**, and **Robotic Programming** where I lead with **Design System Thinking**, **Agile Strategy**, and **Emerging Technologies** based in **South Africa**, building tech for Africa & the world.  
 Founder of **Klonix Technologies** & **Godfada Brand**.  
 Background in **Industrial Physics** + certifications in **AI, FinTech, Product Design, Software Engineering, Computer Systems Engineering, and AI Computer Programming**.  
 

@@ -13,7 +13,7 @@
  
 My work spans **AI**, **Blockchain**, **CivicTech**, **FinTech**, **EdTech**, **e-Commerce**, **Drone Deployment**, and **Robotic Programming** where I lead with **Design System Thinking**, **Agile Strategy**, and **Emerging Technologies**. I'm based in **South Africa**, building tech for Africa & the world.  
 
-Founder of **Klonix Technologies** & **Godfada Brand**.  
+Founder of **Klonix Technologies**, **iProjects**, and **Godfada Brand**.  
 
 Background in **Industrial Physics** + certifications in **AI, FinTech, Product Design, Software Engineering, Computer Systems Engineering, and AI Computer Programming**.  
 

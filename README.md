@@ -9,20 +9,22 @@
 
 ---
 
-## 🚀 About Me 
+## About Me 
  
-💡 Passionate about **AI-driven solutions**, **FinTech innovation**, and **Product Design**.  
-🌍 Based in South Africa, building tech for Africa & the world.  
-📌 Founder of **Klonix Technologies** & **Godfada Brand**.  
-🎓 Background in **Industrial Physics** + certifications in **AI, FinTech, Product Design, Software Engineering, Computer Systems Engineering, and AI Computer Programming**.  
+Passionate about **AI-driven solutions**, **FinTech innovation**, and **Product Design**.  
+Based in South Africa, building tech for Africa & the world.  
+Founder of **Klonix Technologies** & **Godfada Brand**.  
+Background in **Industrial Physics** + certifications in **AI, FinTech, Product Design, Software Engineering, Computer Systems Engineering, and AI Computer Programming**.  
 
 ---
 
-## 🔭 Currently Working On  
+## Currently Working On  
 
-- 🌱 **EkoRyde** – AI & Blockchain-powered Mobility Platform  
-- 💳 **OneTap Africa** – Universal ID & Financial Inclusion  
-- 🎙 **Audibly** – AI Text-to-Speech App  
+- **OneTap Africa** – a Universal ID platform driving financial access in Africa  
+- **iVote** – a Decentralized voting platform restoring electoral integrity  
+- **Audibly** – AI Text-to-Speech App
+- **EkoRyde** – an AI-Blockchain-powered ride-hailing platform redefining green mobility and decentralized transportation
+- **DroneFly** – a Surveillance Drone System that scans and identifies potholes on Federal road networks, then deploys robots to patch them
 
 ---
 
@@ -41,7 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats 
+## GitHub Stats 
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amadibethel&show_icons=true&theme=radical" alt="stats" height="180" />
@@ -54,7 +56,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/amadibethel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

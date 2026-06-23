@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 
 <h1 align="center">Hi 👋, I'm Engr. Bethel Amadi</h1>
-<h4 align="center">AI Automation Engineering | Agentic AI Engineering | Software Systems Engineering</h4>
+<h4 align="center">Agentic AI Engineering | AI Automation Engineering | Software Systems Engineering</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Product+Design;Front-End+Engineering;Back-End+Engineering;API+Engineering;Computer+Systems+Engineering;Cybersecurity+Engineering" alt="Typing Skills Banner" />

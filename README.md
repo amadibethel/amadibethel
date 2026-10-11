@@ -4,7 +4,7 @@
 <h4 align="center">Agentic AI Engineering | AI Automation Engineering | AI Software Engineering</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Product+Design;Front-End+Engineering;Back-End+Engineering;API+Engineering;Computer+Systems+Engineering;Cybersecurity+Engineering" alt="Typing Skills Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Product+Engineering;AI+Automation+Engineering;Back-End+Engineering;AI+Engineering;Computer+Systems+Engineering;Agentic+Engineering" alt="Typing Skills Banner" />
 </p>
 
 ---

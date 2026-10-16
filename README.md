@@ -25,7 +25,7 @@ Background in **Industrial Physics** + certifications in **AI, FinTech, Product 
 - **iVote** – a Decentralized voting platform restoring electoral integrity  
 - **Audibly** – AI Text-to-Speech App
 - **EkoRyde** – an AI-Blockchain-powered ride-hailing platform redefining green mobility and decentralized transportation
-- **DroneFly** – a Surveillance Drone System that scans and identifies potholes on Federal road networks, then deploys robots to patch them
+- **DroneScan** – a Surveillance Drone System that scans and identifies potholes on Federal road networks, then deploys robots to patch them
 
 ---
 
